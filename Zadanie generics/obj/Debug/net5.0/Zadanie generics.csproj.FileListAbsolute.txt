@@ -1,0 +1,16 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\obj\Debug\net5.0\Zadanie generics.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\obj\Debug\net5.0\Zadanie generics.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\obj\Debug\net5.0\Zadanie generics.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\obj\Debug\net5.0\Zadanie generics.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\obj\Debug\net5.0\Zadanie generics.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\bin\Debug\net5.0\Zadanie generics.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\bin\Debug\net5.0\Zadanie generics.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\bin\Debug\net5.0\Zadanie generics.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\bin\Debug\net5.0\Zadanie generics.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\bin\Debug\net5.0\Zadanie generics.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\bin\Debug\net5.0\ref\Zadanie generics.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\bin\Debug\net5.0\Zadanie generics.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\obj\Debug\net5.0\Zadanie generics.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\obj\Debug\net5.0\ref\Zadanie generics.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\obj\Debug\net5.0\Zadanie generics.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание generics\Zadanie generics\Zadanie generics\obj\Debug\net5.0\Zadanie generics.genruntimeconfig.cache
